@@ -90,9 +90,9 @@ All code strictly follows 42 School's Norminette (v3 / v4) coding standard:
 > [!WARNING]
 > The code in this repository is shared publicly for archival and reference purposes only. If you are a 42 student or Piscine candidate, solving these assignments independently is essential for your learning and peer-evaluations. Direct copying violates 42's academic integrity policies.
 
----
-
 <br>
+
+---
 
 <a name="türkçe"></a>
 
